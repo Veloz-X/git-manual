@@ -1,0 +1,5 @@
+pwd   //ver la posision de la carpeta
+ls   //ver los archivos de donde estoy
+git init  // Iniciar git
+git status //ver los archivos
+git add // para agregar al area de trabajo
