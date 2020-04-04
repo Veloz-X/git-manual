@@ -3,6 +3,7 @@ ls   //ver los archivos de donde estoy
 git init  // Iniciar git
 git status //ver los archivos
 git add // para agregar al area de trabajo
+git commit
 git config --global user.email "viralveloz@gmail.com"    //congigurar el correo
 git config --global user.name "Veloz-X"  
 git remote add origin https://github.com/Veloz-X/git-manual.git //añadir al repositorio
