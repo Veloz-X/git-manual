@@ -1,3 +1,4 @@
+ rm -rf .git/borrar archivo git
 pwd   //ver la posision de la carpeta
 ls   //ver los archivos de donde estoy
 git init  // Iniciar git
